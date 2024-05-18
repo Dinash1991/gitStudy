@@ -1,1 +1,1 @@
-this is my first file under git 
+this is my first file under git modify text1
